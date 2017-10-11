@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
-  <project name="TheScarastic/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="cm-14.1" />
+  <project name="ridon/proprietary_vendor_xiaomi_mido" path="vendor/xiaomi/mido" remote="github" revision="ridon-7.1.2" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
   <project name="ridon/android_device_xiaomi_mido" path="device/xiaomi/mido" remote="github" revision="ridon-7.1.2"/>
   <project name="LineageOS/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" />
