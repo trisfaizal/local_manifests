@@ -4,5 +4,6 @@
   <project name="ridon/android_device_google_sprout4" path="device/google/sprout4" remote="github" revision="ridon-7.1.2"/>
   <project name="ridon/android_device_google_sprout-common" path="device/google/sprout-common" remote="github" revision="ridon-7.1.2"/>
   <project name="SamarV-121/android_kernel_mediatek_sprout" path="kernel/mediatek/sprout" remote="github" revision="android-3.10" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
 </manifest>
 
