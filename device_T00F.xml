@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ridon/android_device_asus_T00F" path="device/asus/T00F" remote="ridon-remote" revision="ridon-7.1.2" />
+  <project name="ridon/android_kernel_asus_T00F" path="kernel/asus/T00F" remote="ridon-remote" revision="halium-7.1" />
+  <project name="ridon/proprietary_vendor_asus" path="vendor/asus" remote="ridon-remote"/>
+  <project name="ridon/android_external_stlport" path="external/stlport" remote="ridon-remote"/>
+  <project name="ridon/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="ridon-remote" />
+  <project name="ridon/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="ridon-remote" />
+</manifest>
