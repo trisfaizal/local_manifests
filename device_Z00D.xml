@@ -1,7 +1,6 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_device_asus_Z00D" path="device/asus/Z00D" remote="github" />
+  <project name="ridon/android_device_asus_Z00D" path="device/asus/Z00D" remote="github" revision="ridon-7.1.2"/>
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
   <project name="LineageOS/android_kernel_asus_Z00D" path="kernel/asus/Z00D" remote="github" />
